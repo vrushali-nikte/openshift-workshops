@@ -8,3 +8,4 @@ Don't just read about what OpenShift 3 can do - try it for yourself with [these 
 https://github.com/RedHatGov/redhatgov.github.io/tree/docs/content/workshops/openshift_101_dcmetromap
 
 
+test
